@@ -1,0 +1,4 @@
+void evaluatePixel()
+{
+	dst = float4(1,1,1,1);
+}
